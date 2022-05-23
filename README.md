@@ -1,4 +1,4 @@
-# Cisco Secure Workload (Tetration) Terraform Provider
+# Cisco Secure Workload (CSW) Terraform Provider
 
 > **Note:** this Terraform provider is now publically available on the [Terraform Registry](https://registry.terraform.io/providers/CiscoDevNet/tetration/latest).
  
